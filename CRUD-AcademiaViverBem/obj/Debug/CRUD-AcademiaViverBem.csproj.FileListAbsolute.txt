@@ -1,0 +1,7 @@
+C:\Users\thiag\Documents\DIO\CRUD-AcademiaViverBem\CRUD-AcademiaViverBem\bin\Debug\CRUD-AcademiaViverBem.exe.config
+C:\Users\thiag\Documents\DIO\CRUD-AcademiaViverBem\CRUD-AcademiaViverBem\bin\Debug\CRUD-AcademiaViverBem.exe
+C:\Users\thiag\Documents\DIO\CRUD-AcademiaViverBem\CRUD-AcademiaViverBem\bin\Debug\CRUD-AcademiaViverBem.pdb
+C:\Users\thiag\Documents\DIO\CRUD-AcademiaViverBem\CRUD-AcademiaViverBem\obj\Debug\CRUD-AcademiaViverBem.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\DIO\CRUD-AcademiaViverBem\CRUD-AcademiaViverBem\obj\Debug\CRUD-AcademiaViverBem.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\DIO\CRUD-AcademiaViverBem\CRUD-AcademiaViverBem\obj\Debug\CRUD-AcademiaViverBem.exe
+C:\Users\thiag\Documents\DIO\CRUD-AcademiaViverBem\CRUD-AcademiaViverBem\obj\Debug\CRUD-AcademiaViverBem.pdb
